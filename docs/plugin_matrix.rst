@@ -38,7 +38,7 @@ bigo                - live.bigo.tv       Yes   --
                     - bigoweb.co
 bilibili            live.bilibili.com    Yes   ?
 bloomberg           bloomberg.com        Yes   Yes
-bongacams           bongacams.com        Yes   No    Only RTMP streams are available.
+bongacams           bongacams.com        Yes   No
 brightcove          players.brig... [6]_ Yes   Yes
 brittv              brittv.co.uk         Yes   --
 btv                 btv.bg               Yes   No    Requires login, and geo-restricted to Bulgaria.
@@ -81,8 +81,7 @@ dogan               - teve2.com.tr       Yes   Yes   VOD is supported for teve2 
                     - dreamtv.com.tr
                     - cnnturk.com
                     - dreamturk.com.tr
-dogus               - startv.com.tr      Yes   No
-                    - ntvspor.net
+dogus               - ntvspor.net        Yes   No
                     - kralmuzik.com.tr
                     - ntv.com.tr
                     - eurostartv.com.tr
@@ -179,6 +178,7 @@ seemeplay           seemeplay.ru         Yes   Yes
 seetv               seetv.tv             Yes   No    Streams that are embedded from other sites will not work.
 servustv            servustv.com         ?     ?
 showroom            showroom-live.com    Yes   No    Only RTMP streams are available.
+skai                skai.gr              Yes   No    Only embedded youtube live streams are supported
 speedrunslive       speedrunslive.com    Yes   --    URL forwarder to Twitch channels.
 sportal             sportal.bg           Yes   No
 sportschau          sportschau.de        Yes   No
@@ -187,6 +187,7 @@ srgssr              - srf.ch             Yes   No    Streams are geo-restricted 
                     - rsi.ch
                     - rtr.ch
 ssh101              ssh101.com           Yes   No
+startv              startv.com.tr        Yes   No
 streamable          streamable.com       -     Yes
 streamboat          streamboat.tv        Yes   No
 streamingvi... [1]_ streamingvid... [2]_ Yes   --    RTMP streams requires rtmpdump with
@@ -258,6 +259,7 @@ vidio               vidio.com            Yes   Yes
 vk                  vk.com               Yes   Yes
 vrtbe               vrt.be/vrtnu         Yes   Yes
 wattv               wat.tv               --    Yes
+webcast_india_gov   webcast.gov.in       Yes   No    You can use #Channel to indicate CH number.
 webtv               web.tv               Yes   --
 weeb                weeb.tv              Yes   --    Requires rtmpdump with K-S-V patches.
 wwenetwork          network.wwe.com      Yes   Yes   Requires an account to access any content.
